@@ -1,17 +1,14 @@
-# NodeSchool San Francisco
+# NodeSchool Las Vegas
 
-Interested in NodeSchool SF? Take a peek at our site: http://nodeschool.io/sanfrancisco/
+Interested in NodeSchool Las Vegas? Take a peek at our site: http://nodeschool.io/vegas/
 
 ## Talk to Us
 
-* [Github Issues](https://github.com/nodeschool/sanfrancisco/issues)
+* [Github Issues](https://github.com/nodeschool/vegas/issues)
 
-* [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/sanfrancisco) 
+* [Slack Chat](http://vegasjs-signup.meteor.com/)
 
 ## Team
 
 ### Organizers:
-* Andrew Duquet, [andrew.duquet@gmail.com](mailto:andrew.duquet@gmail.com)
-* Lydia Katsamberis, [@llkats](http://www.twitter.com/llkats)
-* Reza Akhavan, [@jedireza](https://twitter.com/jedireza/)
-
+* Pawel Szymczykowski @makenai
