@@ -11,4 +11,4 @@ Interested in NodeSchool Las Vegas? Take a peek at our site: http://nodeschool.i
 ## Team
 
 ### Organizers:
-* Pawel Szymczykowski @makenai
+* Pawel Szymczykowski [@makenai](http://twitter.com/makenai)
