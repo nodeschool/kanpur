@@ -1,5 +1,5 @@
 /*  pink: #D1026C;
-    orange: #ea7432;
+    orange: #006FBF;
     yellow: #F2D43F;
     green: #61C155;
     blue: #048091;
@@ -25,14 +25,22 @@
   transition: all 0.3s ease;
 }
 
-.features-circle.green {
-  border-color: #61C155;
+.features-circle.red {
+  border-color: #F01616;
 }
 .features-circle.yellow {
-  border-color: #F2D43F;
+  border-color: #FDB128;
 }
-.features-circle.purple {
-  border-color: #492D61;
+.features-circle.blue {
+  border-color: #006FBF;
+}
+
+.red {
+  color: #F01616;
+}
+
+.blue {
+  color: #006FBF;
 }
 
 .pink {
@@ -40,7 +48,7 @@
 }
 
 .yellow {
-  color: #F2D43F;
+  color: #FDB128;
 }
 
 .green {
@@ -97,7 +105,7 @@ div.brand > img {
   position: relative;
   top: 0;
   z-index: 10;
-  background-image: url('../images/bridge.jpg');
+  background-image: url('../images/city.jpg');
   background-position: center;
 }
 
@@ -109,25 +117,25 @@ body {
 }
 
 a {
-  color: #ea7432;
+  color: #006FBF;
 }
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
 .navbar-default .navbar-brand {
-  color: #ea7432;
+  color: #006FBF;
   font-weight: bold;
 }
 
 .navbar-default .navbar-nav > li > a {
-  color: #ea7432;
+  color: #006FBF;
 }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
-  color: #ea7432;
+  color: #006FBF;
 }
 
 /* Information
@@ -147,7 +155,7 @@ a {
   color: #fff;
   background-color: #048091;
   padding: 50px 0;
-  background-image: url('../images/park.jpg');
+  background-image: url('../images/road.jpg');
   background-position: center;
 }
 
