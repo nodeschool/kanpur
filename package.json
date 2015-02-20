@@ -1,15 +1,15 @@
 {
-  "name": "nodeschoolsf",
-  "version": "1.0.0",
-  "description": "nodeschool.io/sanfrancisco webpage",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nodeschool/sanfrancisco.git"
-  },
-  "author": "Andrew Duquet",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nodeschool/sanfrancisco/issues"
-  },
-  "homepage": "https://nodeschool.io/sanfrancisco"
+	"name": "nodeschoolkanpur",
+	"version": "1.0.0",
+	"description": "nodeschool.io/kanpur webpage",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nodeschool/kanpur.git"
+	},
+	"author": "Abdul Qabiz",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/nodeschool/kanpur/issues"
+	},
+	"homepage": "https://nodeschool.io/kanpur"
 }

@@ -93,7 +93,7 @@ div.brand > img {
 }
 
 .intro {
-  background: #048091;
+  background: #2f2f2f;
   margin-bottom: 40px;
 }
 
@@ -105,7 +105,7 @@ div.brand > img {
   position: relative;
   top: 0;
   z-index: 10;
-  background-image: url('../images/city.jpg');
+  /*background-image: url('../images/bg_main.jpg');*/
   background-position: center;
 }
 
@@ -153,9 +153,9 @@ a {
 
 .events {
   color: #fff;
-  background-color: #048091;
+  background-color: #2f2f2f;
   padding: 50px 0;
-  background-image: url('../images/road.jpg');
+  /*background-image: url('../images/bg_events.jpg');*/
   background-position: center;
 }
 
